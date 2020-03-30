@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'hilfswerk.sln'
+  solution: 'Hilfswerk.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
